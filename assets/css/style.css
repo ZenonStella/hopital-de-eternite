@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Roboto+Mono:ital,wght@1,200&display=swap');
+
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+header, footer, .modal-footer, .modal-header {
+    background-color: #790808;
+    color: white;
+}
+.img-id {
+    width: 30%;
+}
+.img-modal {
+    width: 20%;
+}
+.img {
+    width: 100%;
+}
+.horror {
+    font-family: 'Creepster', cursive;
+}
+.horreur404{
+    /* border-radius: 15px; */
+    margin-top: 5%;
+    text-align: center;
+    background-image: url('../img/horreur-404.webp');
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.horreurNotExist {
+    /* margin-top: 5%; */
+    text-align: center;
+    background-image: url('../img/horreur-salle-effrayante-hopital-du-sang.webp');
+    height: 600px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
