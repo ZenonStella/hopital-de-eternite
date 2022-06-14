@@ -49,7 +49,7 @@ $data = [
 		"postalZip" => "24471",
 		"country" => "South Africa",
 		"img" => "IgnatiusSosa",
-		"etat" => "HakeemPena"
+		"etat" => "Mort"
 	],
 	[
 		"name" => "Hedy Ballard",
@@ -59,7 +59,7 @@ $data = [
 		"postalZip" => "41831",
 		"country" => "Germany",
 		"img" => "HedyBallard",
-		"etat" => "HakeemPena"
+		"etat" => "Enterré"
 	],
 	[
 		"name" => "Alma Atkinson",
@@ -69,7 +69,7 @@ $data = [
 		"postalZip" => "88704",
 		"country" => "United Kingdom",
 		"img" => "AlmaAtkinson",
-		"etat" => "HakeemPena"
+		"etat" => "Au labo"
 	],
 	[
 		"name" => "Otto Valenzuela",
@@ -79,7 +79,7 @@ $data = [
 		"postalZip" => "15073",
 		"country" => "South Korea",
 		"img" => "OttoValenzuela",
-		"etat" => "HakeemPena"
+		"etat" => "En salle de soins"
 	],
 	[
 		"name" => "Carissa Garrison",
@@ -89,7 +89,7 @@ $data = [
 		"postalZip" => "19503",
 		"country" => "Chile",
 		"img" => "CarissaGarrison",
-		"etat" => "HakeemPena"
+		"etat" => "En isolement"
 	],
 	[
 		"name" => "Lara Stanley",
@@ -99,7 +99,7 @@ $data = [
 		"postalZip" => "71428",
 		"country" => "Ireland",
 		"img" => "LaraStanley",
-		"etat" => "HakeemPena"
+		"etat" => "A la morgue"
 	],
 	[
 		"name" => "Sara Cooley",
@@ -109,7 +109,7 @@ $data = [
 		"postalZip" => "75169",
 		"country" => "Vietnam",
 		"img" => "SaraCooley",
-		"etat" => "HakeemPena"
+		"etat" => "Sous transfusion"
 	],
 	[
 		"name" => "Chaney Glover",
@@ -119,7 +119,7 @@ $data = [
 		"postalZip" => "82954",
 		"country" => "Ireland",
 		"img" => "ChaneyGlover",
-		"etat" => "HakeemPena"
+		"etat" => "A la morgue"
 	],
 	[
 		"name" => "Avye Robbins",
@@ -129,7 +129,7 @@ $data = [
 		"postalZip" => "88111",
 		"country" => "Brazil",
 		"img" => "AvyeRobbins",
-		"etat" => "HakeemPena"
+		"etat" => "Ameliorations considerables"
 	],
 	[
 		"name" => "Caesar Oliver",
@@ -139,7 +139,7 @@ $data = [
 		"postalZip" => "03135",
 		"country" => "Singapore",
 		"img" => "CaesarOliver",
-		"etat" => "HakeemPena"
+		"etat" => "A fugué"
 	],
 	[
 		"name" => "Drake Peck",
@@ -149,7 +149,7 @@ $data = [
 		"postalZip" => "85391",
 		"country" => "Russian Federation",
 		"img" => "DrakePeck",
-		"etat" => "HakeemPena"
+		"etat" => "A la morgue"
 	],
 	[
 		"name" => "Maya Salas",
@@ -159,7 +159,7 @@ $data = [
 		"postalZip" => "95156",
 		"country" => "Netherlands",
 		"img" => "MayaSalas",
-		"etat" => "HakeemPena"
+		"etat" => ">en salle de soins"
 	],
 	[
 		"name" => "Nora Dunn",
@@ -169,7 +169,7 @@ $data = [
 		"postalZip" => "27097",
 		"country" => "Colombia",
 		"img" => "NoraDunn",
-		"etat" => "HakeemPena"
+		"etat" => "Sous antibiotiques"
 	],
 	[
 		"name" => "Fletcher Sanders",
@@ -179,7 +179,7 @@ $data = [
 		"postalZip" => "44770",
 		"country" => "Australia",
 		"img" => "FletcherSanders",
-		"etat" => "HakeemPena"
+		"etat" => "En isolement"
 	],
 	[
 		"name" => "Burke Barrett",
@@ -189,7 +189,7 @@ $data = [
 		"postalZip" => "37917",
 		"country" => "Norway",
 		"img" => "BurkeBarrett",
-		"etat" => "HakeemPena"
+		"etat" => "Au labo"
 	],
 	[
 		"name" => "Kitra England",
@@ -199,7 +199,7 @@ $data = [
 		"postalZip" => "14709",
 		"country" => "United States",
 		"img" => "KitraEngland",
-		"etat" => "HakeemPena"
+		"etat" => "Baisse des signes vitaux"
 	],
 	[
 		"name" => "Clement Mcmillan",
@@ -209,7 +209,7 @@ $data = [
 		"postalZip" => "18114",
 		"country" => "India",
 		"img" => "ClementineMcmillan",
-		"etat" => "HakeemPena"
+		"etat" => "Enterré"
 	],
 	[
 		"name" => "Arden Bryant",
@@ -219,7 +219,7 @@ $data = [
 		"postalZip" => "94936",
 		"country" => "Colombia",
 		"img" => "ArdenBryant",
-		"etat" => "HakeemPena"
+		"etat" => "Sous transfusion"
 	],
 	[
 		"name" => "Nelle Salinas",
@@ -229,7 +229,7 @@ $data = [
 		"postalZip" => "84142",
 		"country" => "Mexico",
 		"img" => "NelleSalinas",
-		"etat" => "HakeemPena"
+		"etat" => "Mort"
 	],
 	[
 		"name" => "Blake Johns",
@@ -239,7 +239,7 @@ $data = [
 		"postalZip" => "88782",
 		"country" => "Belgium",
 		"img" => "BlakeJohns",
-		"etat" => "HakeemPena"
+		"etat" => "En salle de soins"
 	],
 	[
 		"name" => "Hedley Gay",
@@ -259,7 +259,7 @@ $data = [
 		"postalZip" => "64261",
 		"country" => "Indonesia",
 		"img" => "ArsenioReese",
-		"etat" => "A fuguer"
+		"etat" => "A fugué"
 	],
 	[
 		"name" => "Michelle Sanford",

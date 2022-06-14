@@ -3,18 +3,16 @@ require('assets/data/data.php');
 require('inc/header.php');
 if (isset($_GET['id'])) {
     if (array_key_exists($_GET['id'], $data)) {
-
-
         $value = $data[$_GET['id']];
 ?>
         <a href="index.php" class="btn btn-secondary">Retour à la page d'accueil</a>
-        <div class="choix rounded-4">
+        <div class="choix rounded-4 my-5">
             <h3 class="text-center my-5"><?= $value['name'] ?></h3>
-            <div class="px-5 mx-5 d-flex justify-content-evenly align-items-center">
-                <div class="img-id ms-5">
+            <div class="px-5 mx-5-lg d-flex flex-wrap justify-content-evenly align-items-center">
+                <div class="img-id ms-5-lg">
                     <img class="mb-4 rounded-5 img" src="assets/img/<?= $value['img'] ?>.jpg" alt="">
                 </div>
-                <div class="info me-5">
+                <div class="info me-5-lg">
                     <p>Téléphone : <?= $value['phone'] ?></p>
                     <p>Adresse Mail : <?= $value['email'] ?></p>
                     <p>Adresse : <?= $value['address'] ?></p>
