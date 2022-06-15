@@ -31,7 +31,7 @@ foreach ($data as $key => $value) { ?>
                     <div class="img-modal me-5">
                         <img src="assets/img/<?= $value['img'] ?>.jpg" class="img-fluid rounded-start" alt="photo d'identité de <?= $value['name'] ?>">
                     </div>
-                    <p class="horror">Etes vous sûr de vouloir supprimer le profil de <?= $value['name'] ?>?</p>
+                    <p>Etes vous sûr de vouloir supprimer le profil de <span class="horror"><?= $value['name'] ?></span>?</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annuler</button>

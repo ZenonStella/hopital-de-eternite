@@ -14,10 +14,20 @@
     <header>
         <nav class="navbar">
             <div class="container-fluid">
-                <a class="navbar-brand text-white" href="#">
+                <a class="navbar-brand text-white" href="index.php">
                     <img src="assets/img/logo.webp" alt="logo du site" width="50" height="44" class="d-inline-block align-text-top rounded">
-                    L'hôpital de l'eternité
+                    L'hôpital de <span class="horror">l'eternité</span>
                 </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav text-center">
+                        <a class="nav-link text-white" href="choise-nb.php?nb=5">Afficher 5 <span class="horror">pacients</span></a>
+                        <a class="nav-link text-white" href="choise-nb.php?nb=10">Afficher 10 <span class="horror">pacients</span></a>
+                        <a class="nav-link text-white" href="choise-nb.php?nb=15">Afficher 15 <span class="horror">pacients</span></a>
+                    </div>
+                </div>
             </div>
         </nav>
     </header>
